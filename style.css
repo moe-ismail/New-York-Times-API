@@ -1,0 +1,65 @@
+body{
+  background-color: black;
+  width:100%;
+
+}
+h2
+{
+  text-align: bottom;
+  font-size: 15px;
+  color: green;
+  right: 20px;
+}
+
+
+p{
+	position: left;
+	text-align: left;
+    color: black;
+
+}
+
+#text{
+color: black;
+font-size: 20px;
+}
+
+.loader{
+width: 50%;
+}
+
+.nytlogo{
+z-index: -4;
+position: right;
+right: 20px;
+
+
+}
+menu{
+ align-items: center;
+justify-content: center;
+bottom: 50px;
+}
+
+.pictures{
+  width: 40%;
+  right: 30px;
+  bottom: 30px;
+  background-image: url("https://static01.nyt.com/images/2017/07/24/us/24kushnerlive2/24kushnerlive2-thumbLarge.jpg");
+  background-repeat: no-repeat;
+}
+p.test1
+{
+width:11em; 
+border:1px solid #000000;
+text-wrap:none;
+color: white;
+padding-right: 5px;
+}
+p.test2
+{
+width:11em; 
+border:1px solid #000000;
+text-wrap:normal;
+color: white;
+}
